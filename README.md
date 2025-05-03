@@ -40,7 +40,7 @@ jupyter notebook
 ## Tasks
 
 In the data directory you'll find files of the following dataset:
-https://tblock.github.io/10kGNAD/
+https://tblock.github.io/10kGNAD/^
 
 The dataset contains german news articles.
 
